@@ -1,0 +1,73 @@
+/* Question 1 */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&family=Zeyada&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* 2 */
+/* :root{
+    font-family: 'Orbitron', sans-serif;
+} */
+
+body{
+    font-family: 'Orbitron', sans-serif; 
+    /* Bonus 5 */
+    background-image: url(./starTrek.jpg);
+    /* Bonus 6 */
+    color: rgba(255,255,255, 0.6);
+    /* Bonus 7 */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* 3 */
+span {
+    font-weight: 700;
+}
+
+/* 4 */
+h1 {
+    font-size: 50px;
+    /* 5 */
+    letter-spacing: 10px;
+    /* 6 */
+    text-align: center;
+    /* 7 */
+    text-transform: uppercase;
+    /* 8 */
+    text-decoration: underline;
+}
+
+/* 9 */
+#series-movies {
+    font-size: 20px;
+}
+
+/* 10 */
+h2{
+    font-size: 2em;
+}
+
+/* 11 */
+li{
+    line-height: 2;
+    /* Bonus 4 */
+    font-size: 1rem;
+}
+
+/* 12 */
+#characters{
+    font-size: 18px;
+}
+
+/* 13 */
+h4{
+    letter-spacing: 15px;
+    /* Bonus 4 */
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* Bonus 3 */
+h2, h3, h4 {
+    text-align: center;
+}
+
